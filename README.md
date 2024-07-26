@@ -11,6 +11,5 @@ There are Slicers and Cards in the Dashboard, slicer based on Size. There are fo
 
 dashboard includes:- Column Chart, Donut Chart, Pie Chart, Stacked Area Chart, Stacked Bar Chart, Line Chart to make a attractive dashboard.
 
-
-![Pizza_Dashboard](https://github.com/user-attachments/assets/f1bc251c-791e-4f2a-97f7-b4125fafd308)
+![image](https://github.com/user-attachments/assets/4c99a261-f272-49df-b144-17916187344b)
 
